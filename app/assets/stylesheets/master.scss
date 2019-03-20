@@ -15,6 +15,7 @@
  */
 /* ( my comment) @import url('https://fonts.googleapis.com/css?family=Open+Sans'); */
 @import "bootstrap";
+@import "font-awesome";
 
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -45,14 +46,14 @@ body {
 }
 
 .navbar-inverse .navbar-brand {
-  color: #EC862B;
+  color: #EE2A05;
   font-family: 'ralewayblack';
   font-size: 26px;
   letter-spacing: -0.3px
 }
 
 
-.btn btn-primary {
-  color:  black;
+.nav-link {
+  color: #EE2A05;
 }
 
