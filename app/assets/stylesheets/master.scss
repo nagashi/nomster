@@ -41,14 +41,19 @@ body {
 
 
 .navbar-inverse  .navbar-brand {
-  color: #fff;   
+  color: #fff;  
   font-family: 'ralewayblack';
   font-size: 26px;
   letter-spacing: -0.3px
 
 }
 
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
 
-
-
-
+li a:hover { 
+  background-color: #555;
+  color: white;
+}
