@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  devise_for :places
+  #devise_for :places
   devise_for :users
  # devise_for :models
  # devise_for :installs
