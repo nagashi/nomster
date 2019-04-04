@@ -8,4 +8,3 @@ class CreatePlaces < ActiveRecord::Migration[5.2]
     end
   end
 end
-© 2019 GitHub, Inc.
